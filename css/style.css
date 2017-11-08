@@ -1,0 +1,106 @@
+
+body{
+	background-color: gray;
+}
+
+p{
+	text-align: center;
+	font-size: 20px;
+	margin:0% 0% 0% 0%;
+}
+
+h1{
+	text-align: center;
+	color: white;
+}
+
+.texto{
+	color: white;
+}
+
+#DadosPessoais{
+	text-align: center;
+	height: 50px;
+	border-color: black;
+}
+
+#Botoes{
+	text-align: center;
+	margin-top: 20px;
+}
+
+#camposFiltro{
+	margin: 0% 0% 0% 36%;
+}
+
+}
+.Formulario{
+	border-color: red;
+	height: 100px;
+}
+
+#tabela{
+	width: 100%;
+	border-collapse: collapse;
+}
+
+#Colunas{
+	text-align: center;
+}
+
+
+.btn{
+	width: 120px;
+	height: 30px;
+	border:1px solid #ddd;
+	background-color: #2a578b;
+	color: #fff;
+	cursor: pointer;
+	border-radius: 6px;
+}
+
+.campo{
+	border:1px solid #ddd;
+}
+
+#voltar{
+	background-color: #2a578b;
+	padding: 3px 0 0 3px;
+	width: 57px;
+	height: 30px;
+	position: absolute;
+	margin:25% 0 0 50%;
+	font-size:1.4em;
+	border:1px solid #ddd;
+	text-decoration: none;
+	color:#fff;
+	border-radius: 6px;
+}
+
+#voltar:active{
+	background-color: blue;
+	color:white;
+}
+
+th{
+	background-color: black;
+	text-align: left;
+	padding: 8px;
+	border: solid 1px #eee;
+}
+
+tr{
+	color:white;
+	border: solid 1px #eee;
+
+}
+
+td{
+	color:black;
+	padding: 30px;
+	border: solid 1px #eee;
+}
+
+
+
+
